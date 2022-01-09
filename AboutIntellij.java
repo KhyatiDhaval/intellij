@@ -9,6 +9,7 @@ public class AboutIntellij {
       System.out.println(" it is developed by JetBrains.");
       System.out.println(" IntelliJ is a perfect choice for beginners.");
       System.out.println(" And it stood at 3rd place on the list of best source code editors.");
+      System.out.println(" i love to use intellij.");
 
   }
 
